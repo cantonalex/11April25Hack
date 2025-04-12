@@ -5,7 +5,7 @@ headers = {"Authorization": "sk-7130445a9530ae258bfa501db075fee8"}  # API key
 
 # Video file details  
 data = {  
-    "file": ("ww.mp4", open("/Users/alex/Desktop/untitled folder 12/ww.mp4", "rb"), "video/mp4")  
+    "file": ("1-GameFollow.mp4", open("/Users/kareemamin/hallpass/oix-lab-hackathon/11April25Hack/1-GameFollow.mp4", "rb"), "video/mp4")  
 }  
 
 # Optional callback URL for task status notifications  
@@ -16,6 +16,7 @@ response = requests.post(
     files=data,  
     params=params,  
     headers=headers  
+    
 )  
 
-print(response.json())  
+print(response.json())
