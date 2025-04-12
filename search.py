@@ -8,7 +8,7 @@ headers = {"Authorization": "sk-7130445a9530ae258bfa501db075fee8"}  # API key
 
 data = {  
     "videoNos": ["mavi_video_566084575235805184"],  # List of specific video IDs (you need at least 1 video_no to do the search)  
-    "searchValue": "get me 5 second clips of them shooting"  # The search query  
+    "searchValue": "short clips of highlights"  # The search query  
 }  
 
 response = requests.post(  
