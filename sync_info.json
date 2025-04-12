@@ -1,0 +1,17 @@
+{
+  "original_videos": [
+    "1-GameFollow.mp4",
+    "3-LeftHandheld.mp4",
+    "4-TightHandheld.mp4",
+    "5-Slash.mp4"
+  ],
+  "sync_start_time": 10,
+  "duration": 20,
+  "processed_clips": [
+    "temp/clip_1.mp4",
+    "temp/clip_2.mp4",
+    "temp/clip_3.mp4",
+    "temp/clip_4.mp4"
+  ],
+  "output_file": "synchronized_grid.mp4"
+}

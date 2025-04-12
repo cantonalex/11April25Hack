@@ -1,0 +1,143 @@
+{
+    "code": "0000",
+    "msg": "success",
+    "data": {
+      "videos": [
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "129",
+          "fragmentEndTime": "161",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "181",
+          "fragmentEndTime": "193",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "166",
+          "fragmentEndTime": "193",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "66",
+          "fragmentEndTime": "85",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "131",
+          "fragmentEndTime": "170",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "48",
+          "fragmentEndTime": "78",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "128",
+          "fragmentEndTime": "175",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "150",
+          "fragmentEndTime": "184",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "161",
+          "fragmentEndTime": "176",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "130",
+          "fragmentEndTime": "175",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "47",
+          "fragmentEndTime": "83",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "40",
+          "fragmentEndTime": "71",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "15",
+          "fragmentEndTime": "43",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "36",
+          "fragmentEndTime": "60",
+          "duration": "193"
+        },
+        {
+          "videoNo": "mavi_video_566084575235805184",
+          "videoName": "bball-hightlight",
+          "videoStatus": "PARSE",
+          "uploadTime": "1744424280079",
+          "fragmentStartTime": "140",
+          "fragmentEndTime": "174",
+          "duration": "193"
+        }
+      ]
+    }
+  }
